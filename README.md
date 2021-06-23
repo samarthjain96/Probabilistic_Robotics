@@ -1,5 +1,5 @@
 # Probabilistic_Robotics
- Notebooks regarding various probabilistic robotics algorithms.Some implementations of estimation algorithms from Thrun's Probabilistic Robotics.
+ Notebooks regarding various probabilistic robotics algorithms. Some implementations of estimation algorithms from Thrun's Probabilistic Robotics.
 
 Reference:
 1. https://github.com/DevonMorris/ProbabilisticRobotics
